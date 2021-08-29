@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Claerman-AMD-Ryzen7\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Claerman-AMD-Ryzen7\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
